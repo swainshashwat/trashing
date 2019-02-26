@@ -8,4 +8,4 @@ A Trash Classification model
 - Segmentation model
 
 # Citation
-Original dataset generation by [garythung/trashnet](https://github.com/garythung/trashnet)
+Original dataset generation and work by [garythung/trashnet](https://github.com/garythung/trashnet)
