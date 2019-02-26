@@ -1,11 +1,11 @@
 # Trashing
 A Trash Classification model
 
-# TODOs
+## TODOs
 - Trash Image Exploration
 - Classification model
 - Adding segmentation masks
 - Segmentation model
 
-# Citation
+## Citation
 Original dataset generation and work by [garythung/trashnet](https://github.com/garythung/trashnet)
